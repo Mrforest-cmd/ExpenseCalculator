@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2024-04-02T06:33:48.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CT4YtIoM0wFItqBei7kP" version="24.2.1" type="device">
+  <diagram name="Страница — 1" id="3cmSoiL8Tga0z7wuwOuM">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="770" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-3" target="D6AOw8S2hh5UcfHNL8vd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-3" target="D6AOw8S2hh5UcfHNL8vd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-3" value="Expense (Витрата)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-4" target="D6AOw8S2hh5UcfHNL8vd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-4" target="D6AOw8S2hh5UcfHNL8vd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-4" target="D6AOw8S2hh5UcfHNL8vd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-4" value="ExpenseCalculator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-5" target="D6AOw8S2hh5UcfHNL8vd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-5" value="Handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-8" target="D6AOw8S2hh5UcfHNL8vd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-8" target="D6AOw8S2hh5UcfHNL8vd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-8" target="D6AOw8S2hh5UcfHNL8vd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-8" value="ExpenseView" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D6AOw8S2hh5UcfHNL8vd-10" target="D6AOw8S2hh5UcfHNL8vd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-10" value="Взаємодія крізь статичні функціі/класс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-13" value="Name, Amount, date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-15" value="Список з Expense, Івент ExpenseAddHandler" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-17" value="Методи розрахунку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-20" value="Об&#39;єкт калькулятору" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-22" value="Методи виводу інформації" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D6AOw8S2hh5UcfHNL8vd-24" value="CLI-інтерфейс, статичні функції для додавання витрати та виводу по даті" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
