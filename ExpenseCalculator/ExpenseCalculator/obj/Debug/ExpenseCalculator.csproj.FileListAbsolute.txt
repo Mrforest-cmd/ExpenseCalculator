@@ -1,0 +1,7 @@
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe.config
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\bin\Debug\ExpenseCalculator.exe
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\bin\Debug\ExpenseCalculator.pdb
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.csproj.AssemblyReference.cache
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.exe
+C:\Users\lehan\OneDrive\Документы\GitHub\fr-050923\ExpenseCalculator\ExpenseCalculator\obj\Debug\ExpenseCalculator.pdb
